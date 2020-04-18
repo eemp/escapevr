@@ -12,7 +12,7 @@ export default class escapevr extends React.Component {
       <View style={styles.panel}>
         <View style={styles.greetingBox}>
           <Text style={styles.greeting}>
-            Look at the night sky, Kinjal!
+            Check out the night sky from the starter!
           </Text>
         </View>
       </View>
